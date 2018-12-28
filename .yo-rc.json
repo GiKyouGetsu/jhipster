@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "org.gikyou.getsu",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "myfirstjhipster",
+        "packageName": "org.gikyou.getsu",
+        "packageFolder": "org/gikyou/getsu",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "postgresql",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": true,
+        "jwtSecretKey": "Y2JiYTM4ODlmODlmOThmZTFlMmQ0ZTFmNTJmYjRhMzljNjgwYzE5YTU0MGQ1ZTJmYjM5NTFjZGQ3OWY1ZGY2ZjVmYmViOTRmMDFiYWQ0NTNkNDk5ZGIwMTA4NTQ4YjM2ZTBkNjI0OTk1ZjNmOTNjYTI2MDVhMmQyNGYyZmI2MzI=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "zh-cn", "ja"]
+    }
+}
