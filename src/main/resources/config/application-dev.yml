@@ -45,8 +45,8 @@ spring:
     datasource:
         type: com.zaxxer.hikari.HikariDataSource
         url: jdbc:postgresql://localhost:5432/myfirstjhipster
-        username: myfirstjhipster
-        password:
+        username: postgres
+        password: Avaya123#
         hikari:
             auto-commit: false
     jpa:
